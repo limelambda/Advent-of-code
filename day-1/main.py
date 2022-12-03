@@ -1,0 +1,2 @@
+print(max([sum([int(y) for y in x.split('\n')]) for x in open("input.txt", "rt").read().split('\n\n')[:-1]]))
+out = ([sum([int(y) for y in x.split('\n')]) for x in open("input.txt", "rt").read().split('\n\n')[:-1]]);out.sort();print(sum((out)[-3:]))
