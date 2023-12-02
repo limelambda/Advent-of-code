@@ -1,0 +1,1 @@
+print(len([i for i in [[[int(z) for z in y.split('-')] for y in x.split(',')] for x in open("input", "rt").read().split('\n')] if (i[0][0] in range(i[1][0], i[1][1]+1) or i[0][1] in range(i[1][0], i[1][1]+1)) or (i[1][0] in range(i[0][0], i[0][1]+1) or i[1][1] in range(i[0][0], i[0][1]+1))]))
