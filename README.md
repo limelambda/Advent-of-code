@@ -1,9 +1,9 @@
 # Advent of code!
 
-yep it's a thing [Aaaaaaaaaaa](https://adventofcode.com/)
+[Link to site](https://adventofcode.com/)
 
 ## But what this repo???
-My personal shit we got uhh
+My responces to the tasks we got:
 day 1
 day 2
-and the rest of em!
+and the rest of em! or well the rest of the ones I've done
